@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josmar-saiefert/)](https://www.linkedin.com/in/josmar-saiefert/)
 
 ### 💬 About me
-I'm a backend and web developer, focusing on .NET 5+ (.NET Core), i also have knowledge in frontend development, especially with react and vue.
+I'm a backend and web developer, focusing on .NET 8+, i also have knowledge in frontend development, especially with react and vue.
 I always look for the best ways to solve customer problems and always like to learn new technologies and not so new.
 
 ### 🔭 I’m currently working on 
